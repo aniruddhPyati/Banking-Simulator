@@ -19,5 +19,7 @@ Robust Security Measures
 # Technologies Used:
 
 JAVA
+
 MySQL
+
 JDBC
